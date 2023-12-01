@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "699826025413",
+    "firebase_url": "https://invernadero-65177-default-rtdb.firebaseio.com",
+    "project_id": "invernadero-65177",
+    "storage_bucket": "invernadero-65177.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699826025413:android:e4d3a21378f04f1b02d1ac",
+        "android_client_info": {
+          "package_name": "com.poorientada.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4_ix4ubie8o_S6vUjwkTNNb3vgmjuaI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

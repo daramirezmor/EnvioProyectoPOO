@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sistema Invir</string>
+
+    <string name="botonTextPlantas">infoplantas</string>
+    <string name="botonTextInfo">Información adicional</string>
+    <string name="botonTextPeste">Enfermedades y pestes</string>
+    <string name="botonTextAnother">Another option</string>
+
+    <string name="fondo">fondo</string>
+    <string name="botonTextmisPlantas">Mis plantas</string>
+    <string name="agua">Boton Agua</string>
+
+
+
+
+</resources>
